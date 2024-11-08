@@ -24,12 +24,12 @@ Here are a few projects I’ve worked on:
 
 
 
-### [E-Commerce Website](https://github.com/JayanthK007/ecommerce-website)
+### [E-Commerce Website](https://mernecommerce-yo7z.onrender.com/)
 - **Description**: Full-stack e-commerce site with React.js frontend, Node.js backend, and Stripe integration.
 - **Technologies**: Node.js, Express.js, React.js, Redux, Stripe
 - **Impact**: Increased user engagement by 50% and improved transaction security by 30%.
 
-### [Mobile Malware Detection with Lang Chain](https://github.com/JayanthK007/mobile-malware-detection)
+### [Mobile Malware Detection with Lang Chain](https://github.com/JayanthK007/malware-detection)
 - **Description**: Built a malware detection system using NLP and machine learning to detect mobile threats.
 - **Technologies**: Python, Lang Chain, LLM, Pandas, scikit-learn
 - **Impact**: Improved detection accuracy by 45%, reducing false positives by 35%.
