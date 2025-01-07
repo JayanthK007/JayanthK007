@@ -1,11 +1,11 @@
 # Hi there, I'm Jayanthkumar 👋
 
 ## About Me
-I'm a Computer Science enthusiast with experience in algorithms and web development. I am passionate about leveraging technology to solve complex problems, especially in the fields of data science and machine learning.
+I'm a Computer Science enthusiast with experience in algorithms, web development, and open-source contributions. I am passionate about leveraging technology to solve complex problems, especially in the fields of data science and machine learning.
 
-- 🔭 I’m currently working on **AI** and **machine learning**.
+- 🔭 I’m currently working on **AI**, **machine learning**, and **open-source projects**.
 - 👯 I’m looking to collaborate on **open-source projects** related to **data science**, **web development**, and **algorithm optimization**.
-- 💬 Ask me about **Python**, **C++**, **Java** and **web development**.
+- 💬 Ask me about **Python**, **C++**, **Java**, and **web development**.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/jayanthkumarkarthik)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving **algorithmic challenges** and **participating in hackathons**.
@@ -22,7 +22,10 @@ Here are some of the technologies and tools I work with:
 ## Projects
 Here are a few projects I’ve worked on:
 
-
+### [Oppia Open-Source Contributions](https://github.com/JayanthK007/oppia)
+- **Description**: Contributed to the Oppia project by resolving critical bugs, implementing acceptance tests, and adding frontend unit test cases.
+- **Technologies**: Angular, TypeScript, Python, Flask, GitHub Actions, Docker
+- **Impact**: Improved platform functionality, streamlined CI pipelines, and enhanced code quality through robust testing.
 
 ### [E-Commerce Website](https://mernecommerce-yo7z.onrender.com/)
 - **Description**: Full-stack e-commerce site with React.js frontend, Node.js backend, and Stripe integration.
@@ -38,6 +41,7 @@ Here are a few projects I’ve worked on:
 - **400+ LeetCode Problems Solved**: Gained deep expertise in algorithms and data structures.
 - **Hackathon Winner**: Led a team to develop a volunteer website, connecting volunteers with organizations.
 - **Open-Source Contributions**: Contributed 10 hours/month to open-source projects on GitHub (2024-Present).
+- **Oppia Contributor**: Resolved bugs, enhanced platform performance, and improved CI pipelines in the Oppia project.
 
 ## Connect with Me
 - [LinkedIn](https://linkedin.com/in/jayanthkumarkarthik)
@@ -46,5 +50,3 @@ Here are a few projects I’ve worked on:
 ## Fun Facts
 - I love participating in **coding challenges** and **hackathons**.
 - When I’m not coding, you can find me exploring **machine learning** trends or **reading books** on AI and technology.
-
-
